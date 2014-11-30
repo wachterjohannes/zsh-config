@@ -9,6 +9,10 @@ source ~ZSHCONFIG_PATH/modules/key_bindings.zsh
 source ~ZSHCONFIG_PATH/modules/git/aliases.zsh
 source ~ZSHCONFIG_PATH/modules/git/helper.zsh
 
+# symfony
+source ~ZSHCONFIG_PATH/modules/symfony/aliases.zsh
+source ~ZSHCONFIG_PATH/modules/symfony/config.zsh
+
 # jump
 source ~ZSHCONFIG_PATH/modules/jump/jump.plugin.zsh
 
