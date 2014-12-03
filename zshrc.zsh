@@ -18,3 +18,4 @@ source ~ZSHCONFIG_PATH/modules/jump/jump.plugin.zsh
 
 source ~ZSHCONFIG_PATH/modules/history.zsh
 source ~ZSHCONFIG_PATH/modules/prompt.zsh
+source ~ZSHCONFIG_PATH/modules/title.zsh
