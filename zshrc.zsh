@@ -19,3 +19,8 @@ source ~ZSHCONFIG_PATH/modules/jump/jump.plugin.zsh
 source ~ZSHCONFIG_PATH/modules/history.zsh
 source ~ZSHCONFIG_PATH/modules/prompt.zsh
 source ~ZSHCONFIG_PATH/modules/title.zsh
+
+# history substring search
+#source ~ZSHCONFIG_PATH/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~ZSHCONFIG_PATH/zsh-history-substring-search/zsh-history-substring-search.zsh
+source ~ZSHCONFIG_PATH/modules/history-substring-search.zsh
